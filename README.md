@@ -6,7 +6,7 @@ This project demonstrates game logic, WPF UI, and AI decision-making using Minim
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 The application allows players to compete against an AI opponent that uses Minimax logic to simulate intelligent moves. It supports:
 
@@ -17,7 +17,7 @@ The application allows players to compete against an AI opponent that uses Minim
 
 ---
 
-## 🏫 Project Details
+## Project Details
 
 - **Institution:** Karelia University of Applied Sciences (AMK Karelia)
 - **Course:** Tekoäly ja robotiikka (Artificial Intelligence and Robotics)
@@ -29,7 +29,7 @@ The application allows players to compete against an AI opponent that uses Minim
 
 ---
 
-## ⚙️ Features
+## Features
 
 ### Game Logic
 
@@ -59,14 +59,14 @@ The application allows players to compete against an AI opponent that uses Minim
 
 ---
 
-## 🎨 Design Details
+## Design Details
 
 - Player token color: **Coral**
 - AI token color: **Yellow**
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -85,13 +85,13 @@ The application allows players to compete against an AI opponent that uses Minim
 
 ---
 
-## 🧾 License
+## License
 
 This is a student project and not intended for production use without further development.
 
 ---
 
-## 👥 Authors
+## Authors
 
 - [Kulmala Katja](https://github.com/Boustaaja)
 - Varkoi Patrick
