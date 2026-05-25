@@ -66,6 +66,22 @@ The application allows players to compete against an AI opponent that uses Minim
 
 ---
 
+## Screenshots
+
+### Player starts
+
+<img src="docs/screenshots/connect4-player-start.png" alt="Connect Four player starts" width="500">
+
+### AI starts
+
+<img src="docs/screenshots/connect4-ai-start.png" alt="Connect Four AI starts" width="500">
+
+### Game result
+
+<img src="docs/screenshots/connect4-game-result.png" alt="Connect Four game result" width="500">
+
+---
+
 ## Getting Started
 
 ### Prerequisites
